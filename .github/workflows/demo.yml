@@ -6,3 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Hola mundo"
+        name: Hola mundo
+      - run: echo "Adios"
+        name: Adios
