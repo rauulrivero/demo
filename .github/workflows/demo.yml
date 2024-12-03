@@ -1,4 +1,4 @@
-name: Esto es unna demo
+name: Esto es una demo
 on: [push]
 
 jobs:
